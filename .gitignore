@@ -1,0 +1,21 @@
+# Ignore all .docx files
+*.docx
+
+# Ignore all .index files
+*.index
+
+
+**/__pycache__/
+
+# Игнорировать папку .ipynb_checkpoints
+**/.ipynb_checkpoints/
+
+.venv
+.idea
+# Игнорировать временные файлы блокировки Excel
+*.~lock.*
+
+# Игнорировать папку autoragvenv
+
+.venv
+
