@@ -7,7 +7,7 @@
 ```python
 ##В cd ставить папку в которой хранится папка с модулем AutoRAG
   
-from AutoRAG.expirement_runner import ExperimentManager
+from expirement_runner import ExperimentManager
 
 if __name__ == "__main__":
     config = {
